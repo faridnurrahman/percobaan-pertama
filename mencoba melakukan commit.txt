@@ -2,4 +2,5 @@ belajar menggunakan github
 menambah satu lagi
 dan ditambah lagi
 terus dihapus satu kalimat
-
+nyobain ngefork
+ngedit, melakukan penambahan kata-kata
